@@ -24,7 +24,7 @@ en:
 
         `/coffee run [time]`
           Start a coffee run!
-          Optionally, anounce in how long you'll be leaving.
+          Optionally, announce in how much time you'll be leaving.
           example: /coffee run 15
 
         `/coffee list`
